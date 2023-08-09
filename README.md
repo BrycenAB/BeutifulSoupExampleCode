@@ -24,7 +24,7 @@ pip install beautifulsoup4 requests
 3. Run the script using Python:
 
 ```console
-python scrape_books.py
+python Main.py
 ```
 
 4. The script will start scraping the website https://books.toscrape.com/ and extract the book data.
