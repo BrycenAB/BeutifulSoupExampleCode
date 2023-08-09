@@ -17,7 +17,7 @@ pip install beautifulsoup4 requests
 ```
 
 ## Usage
-1. Clone the repository or download the scrape_books.py file.
+1. Clone the repository or download the Main.py file.
 
 2. Navigate to the project directory.
 
@@ -32,7 +32,7 @@ python scrape_books.py
 5. The extracted data will be saved to a file named books_data.csv in the same directory.
 
 ## Output 
-The script will create a CSV file named books_data.csv, which will contain the following information for each book:
+The script will create a CSV file named Books.csv, which will contain the following information for each book:
 * Title
 * Price
 * Stock
